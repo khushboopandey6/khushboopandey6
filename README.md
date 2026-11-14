@@ -2,6 +2,7 @@
 
 # Hi there, I'm Khushboo Pandey 👋
 ### Cloud & DevOps Engineer | Distributed Systems & AI Infrastructure | MS CS @ UMass Amherst
+**I love building and scaling Cloud, Infrastructure, MLOps, and ML Engineering systems that power reliable, production-grade AI and distributed applications.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushboopandey0)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushboopandey6)
@@ -74,12 +75,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushboopandey6&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboopandey6&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-<!--
 **khushboopandey6/khushboopandey6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
