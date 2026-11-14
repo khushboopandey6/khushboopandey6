@@ -74,6 +74,3 @@
   Built modular Terraform templates (50% faster provisioning) and Jenkins CI/CD pipelines with Datadog log diagnostics (90% faster incident response).
 
 ---
-
-**khushboopandey6/khushboopandey6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
